@@ -1,6 +1,9 @@
 # ZeroTier Inactive Member Remover
 
 This script removes inactive members from ZeroTier networks based on user-defined criteria. It provides options for a dry run, length of inactivity, and creates backups before making any changes.
+## Add Zerotier token 
+
+export ZEROTIER_API_TOKEN='This_is_my_token'
 
 ## Features
 
